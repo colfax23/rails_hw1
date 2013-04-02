@@ -1,3 +1,8 @@
+I am interested in attending the following event:
+OWASP New York City Cyber Security Meet-Up
+It is on April 11th
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
