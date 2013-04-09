@@ -1,4 +1,16 @@
 Hw1::Application.routes.draw do
+  resources :uploads
+
+
+  resources :assignments
+
+
+  resources :lectures
+
+
+  resources :courses
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
