@@ -9,4 +9,5 @@ class User
 	field :birth_date,	:type => String
 	field :hometown,	:type => String
 
+  validates :email, presence: true
 end

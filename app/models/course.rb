@@ -13,4 +13,6 @@ class Course
   field :room1,	:type => String
   field :instructor1Name,	:type => String
 
+  validates :course_title, presence: true
+
 end
