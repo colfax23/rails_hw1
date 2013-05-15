@@ -10,4 +10,5 @@ class User
 	field :hometown,	:type => String
 
   validates :email, presence: true
+  #adding more white space for hw5
 end
